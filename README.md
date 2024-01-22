@@ -1,0 +1,1 @@
+This API is designed to manage employees of organizations, It help authomate employees records breaching the gaps of manual recording. Technologies used: C#, .NET 6.0, SQL Server, EFCore, etc. Design Pattern: Repository Pattern
